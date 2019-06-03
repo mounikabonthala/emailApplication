@@ -1,0 +1,10 @@
+input.inputTextField {
+  width: 100%;
+  padding: 3px;
+}
+  
+input[type="text"]:focus {
+    border: 1px solid #85B7d9;
+  }
+
+  

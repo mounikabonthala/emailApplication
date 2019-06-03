@@ -1,0 +1,21 @@
+.tabsContainer{
+    display: flex;
+    width: 100%;
+    background-color: #ecf0f1;
+}
+
+.tabs{
+    list-style: none;
+    padding: 5px 10px;
+    border: 1px solid #d7e0e2;
+}
+.tabs a {
+    text-decoration: none;
+
+}
+.normal{
+    color: #d4d5d6
+}
+.active{
+    color: black
+}

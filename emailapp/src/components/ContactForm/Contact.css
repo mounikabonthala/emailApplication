@@ -1,0 +1,45 @@
+.contactFormTitle{
+    text-align: center;
+    background-color: #2f82ec;
+    color: #ffffff;
+}
+.formFieldRow {
+    display: flex;
+    margin: 5px 0 5px 0;
+}
+
+.formInputName{
+    /* flex: 1 */
+    width: 200px;
+    line-height: 40px;
+}
+
+.formInputField{
+    width: 200px;
+}
+.react-tel-input input[type=text],.react-tel-input input[type=tel]{
+    width: 100%;
+    flex: 1 1;
+}
+.formWrapper{
+    padding: 10px;
+}
+
+.react-multi-email{
+    height: 100px;
+}
+
+
+textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    height: 100px
+
+  }
+
+  input[type=text]:focus {
+    border: 1px solid #555;
+  }
